@@ -6,4 +6,4 @@ title: About
 
 In a word: **Awesome!**
 
-See the [Home page](/ghpagetest/README.md)
+See the [Home page](/ghpagestest/README.md)
